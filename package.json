@@ -1,0 +1,22 @@
+{
+  "name": "build-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Build",
+    "server",
+    "using",
+    "Node.js"
+  ],
+  "author": "Michael",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^14.0.0",
+    "node-less": "^1.0.0",
+    "nodemon": "^1.11.0"
+  }
+}
